@@ -1,6 +1,6 @@
 # MTU
 
-The codes in this repositry are the ones I used in my MSc project, where:
+The codes in this repositry are the ones I used in my MSc project for automonous detection of manholes through street images, where:
 
 
 **Download_GSV.ipynb** is the code I wrote to download the GSV images from the provided map in the folde "**road map**".<br />
